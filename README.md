@@ -246,4 +246,22 @@ ________________________________________
 O projeto implementa uma aplicação Android funcional para descoberta de dispositivos Bluetooth.
 Foram aplicados conceitos de desenvolvimento Android, programação Java, Activities, Intent, Widgets, ConstraintLayout, permissões e comunicação Bluetooth.
 A aplicação permite realizar pesquisas reais através do Bluetooth do dispositivo, apresentar informações dos dispositivos encontrados e realizar novas pesquisas.
+____________________________________________________________________________________________________________________________________
+## 📱 Capturas de Ecrã
+
+### 🏠 Tela Inicial
+
+![Tela Inicial](screenshots/Tela%20Inicial.jpeg)
+
+### 🔍 Nova Pesquisa
+
+![Nova Pesquisa](screenshots/Nova%20Pesquisa.jpeg)
+
+### ✅ Pesquisa Terminada
+
+![Pesquisa Terminada](screenshots/Pesquisa%20Terminada.jpeg)
+
+### 📡 Nova Pesquisa Terminada
+
+![Nova Pesquisa Terminada](screenshots/Nova%20Pesquisa%20Terminada.jpeg)
 
